@@ -1,2 +1,2 @@
-import './js/menu-gallary';
+import './js/menu-gallery';
 import './js/switcher';
